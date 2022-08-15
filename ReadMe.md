@@ -1,6 +1,6 @@
 # Titanic - Machine Learning from Disaster
 
-![alt text](https://storage.googleapis.com/kaggle-competitions/kaggle/3136/logos/header.png)
+![Titanic](https://storage.googleapis.com/kaggle-competitions/kaggle/3136/logos/header.png)
 
 This is a Kaggle challenge to predict which passangers survived the accident on Titanic
 Make use of the given dataset from Kaggle
